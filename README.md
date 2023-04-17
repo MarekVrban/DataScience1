@@ -1,2 +1,2 @@
 # DataScience1
-Few previews of simple raw code.
+Few simple projects
